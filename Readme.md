@@ -7,7 +7,7 @@ $ docker-compose up -d
 ```
 or 
 ```sh
-$ docker compose up -d
+docker compose up -d
 ```
 
 - Zookepper exposed port with `2181`
@@ -15,7 +15,7 @@ $ docker compose up -d
 
 ## Run Apache Kafka with Confluent 
 ```sh
-$ docker compose up -f docker-compose-confluentinc.yml
+docker compose up -f docker-compose-confluentinc.yml
 ```
 
 - Zookepper exposed port with `2181`
