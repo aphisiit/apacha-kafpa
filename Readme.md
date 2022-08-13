@@ -28,6 +28,7 @@ docker compose up -f docker-compose-confluentinc.yml
 - [Github Baeldung Spring-Kafka](https://github.com/eugenp/tutorials/tree/master/spring-kafka)
 - [Java Spring Boot: Code Example for Apache Kafka](https://docs.confluent.io/platform/current/tutorials/examples/clients/docs/java-springboot.html)
 - [Spring for Apache Kafka](https://docs.spring.io/spring-kafka/reference/html/)
+- [spring-kafka samples](https://github.com/spring-projects/spring-kafka/tree/main/samples)
 - [Go: Code Example for Apache Kafka](https://docs.confluent.io/platform/current/tutorials/examples/clients/docs/go.html)
 - [Apache Kafka packaged by Bitnami](https://hub.docker.com/r/bitnami/kafka)
 - [Confluent Community Docker Image for Apache Kafka](https://hub.docker.com/r/confluentinc/cp-kafka)
